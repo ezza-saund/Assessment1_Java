@@ -37,7 +37,8 @@
 }
 
 .navbar ul li a:hover {
-  background-color: #232376;
+  background-color: black;
+  padding: 5px
 }
 
 #logo1 {
